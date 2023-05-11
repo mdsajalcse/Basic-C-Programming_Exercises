@@ -7,7 +7,7 @@ int main(){
    printf("Enter area width=");
    scanf("%lf",&width);
    area=length*width;
-   printf("Rectangle Area is=%.2lf",area);
+   printf("Rectangle Area is=%.2lf sq.units",area);
 
 
 
